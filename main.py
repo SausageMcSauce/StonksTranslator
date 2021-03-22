@@ -3,6 +3,11 @@ convertlist = [
   ["ARMY", "ARMMEY"],
   ["RUIN", "ROUN"],
   ["SCRATCH", "SCRTACH"],
+  ["SINCE", "SINSE"],
+  ["2020", "2069"],
+  ["2021", "2069"],
+  ["LET'S", "LESS"],
+  ["FOLLOW", "FOLO"],
   # suffixes go at the bottom of the list
   ["ING", "IN"]
 ]
